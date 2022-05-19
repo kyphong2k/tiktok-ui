@@ -1,0 +1,19 @@
+@import "normalize.css";
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500;600;700&family=Playfair+Display:wght@500;600;700&display=swap');
+
+$clr-primary: #fe2c55;
+
+html {
+    font-size: 62.5%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-rendering: optimizeSpeed;
+}
